@@ -1,2 +1,2 @@
 # graph_isomorphism
-Finding out if two given graphs are isomorphic
+Analysing isomorphism of two given graphs.
